@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "Run a local server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madhu92be/webapi.git"
+  },
+  "keywords": [
+    "boot",
+    "server"
+  ],
+  "author": "Madhusudana C S",
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,3 @@
+Nodejs is a server side framework built by google developers.
+MEAN is a concept which defines  MangoDB as a database, Express js as a framework, Angularjs for design purpose speciall for single page application and the last but not the least Nodejs which is powerfull javascript server side code.
+MEAN apps is so powerfull that users will be excited to use for growth of their business. Since there are powerfull concepts included within this that will help users to experience more fast and beautifull designed application.

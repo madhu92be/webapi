@@ -1,0 +1,48 @@
+http://stackoverflow.com/questions/3919977/ide-for-node-js-javascript
+http://www.sublimetext.com/
+https://packagecontrol.io/installation
+https://www.exratione.com/2014/01/setting-up-sublime-text-3-for-javascript-development/
+https://www.sitepoint.com/essential-sublime-text-javascript-plugins/
+
+
+https://nodejs.org/en
+
+
+
+Nodejs:
+nom --version
+npm install <Module Name>
+Attributes of Package.json
+name - name of the package
+
+version - version of the package
+
+description - description of the package
+
+homepage - homepage of the package
+
+author - author of the package
+
+contributors - name of the contributors to the package
+
+dependencies - list of dependencies. npm automatically installs all the dependencies mentioned here in the node_module folder of the package.
+
+repository - repository type and url of the package
+
+main - entry point of the package
+
+keywords - keywords
+
+npm uninstall <Module Name>
+npm ls //lists the no. of modules installed
+npm update <Module  Name>
+npm search <Module Name> // search package
+
+Create a module:
+Creation of module requires package.json to be generated. Let's generate package.json using npm, which will generate basic skeleton of the package.json.
+npm init
+
+Username: madhu92be
+Password:
+Email: (this IS public) madhu92be@gmail.com
+Logged in as madhu92be on https://registry.npmjs.org/
